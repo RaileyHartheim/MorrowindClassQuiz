@@ -13,7 +13,7 @@ git clone https://github.com/RaileyHartheim/morrowind-class-quiz-text-version
 ```
 - Go to project directory and just launch the app:
 ```
-cd morrowind-class-quiz/
+cd morrowind-class-quiz-text-version/
 python3 morrowind_class_quiz.py 
 ```
 - Answer all questions and get your result. Well done, you are amazing!
