@@ -9,7 +9,7 @@ That version is working in console mode, the updated version that uses Flask can
 You need to run followind commands in the bash:
 - clone git repository:
 ```
-git clone https://github.com/RaileyHartheim/morrowind_class_quiz
+git clone https://github.com/RaileyHartheim/morrowind-class-quiz-text-version
 ```
 - Go to project directory and just launch the app:
 ```
